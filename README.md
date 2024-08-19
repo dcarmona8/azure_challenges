@@ -2,7 +2,7 @@
  
 Because it seems that text relates to Azure, I've tried to focus solution in Azure AKS.
 
-![[Pasted image 20240819090726.png]]
+![Pasted image 20240819090726](https://github.com/user-attachments/assets/621273b7-2133-40dc-b944-e98f948d27c3)
 
 - **Isolate specific node groups forbidding the pods scheduling in this node
 groups.**
