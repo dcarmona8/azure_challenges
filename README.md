@@ -1,4 +1,4 @@
- #### Challenge 1
+ # Challenge 1
  
 Because it seems that text relates to Azure, I've tried to focus solution in Azure AKS.
 
