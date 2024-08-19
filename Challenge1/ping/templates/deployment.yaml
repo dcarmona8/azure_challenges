@@ -27,9 +27,9 @@ spec:
                   - key: topology.kubernetes.io/zone
                     operator: In
                     values:
-                      - "zone-1"
-                      - "zone-2"
-                      - "zone-3"
+                      - "1"
+                      - "2"
+                      - "3"
         podAntiAffinity:
           requiredDuringSchedulingIgnoredDuringExecution:
             - labelSelector:
